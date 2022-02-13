@@ -6,6 +6,7 @@ A project of Data Structure and Object-oriented Programming in National Yang Min
 
 ## Usage
 ```bash
+cd Dungeon
 g++ *.cpp
 ./a.out
 ```
