@@ -1,0 +1,102 @@
+12
+-1 -1 -1 -1 1 -1 0
+0
+0
+0
+2 3 5 4 10 0 0
+0
+1
+Secret Scholar
+The warrior...
+Becareful...
+-asdfghjkl-
+0
+0
+-1 1 -1 -1 6 -1 0
+1
+Sword
+0 40 0
+0
+0
+1 -1 -1 -1 7 -1 0
+0
+1
+Travel Merchant
+Wellcome to my shop...
+None of people leaving here alive before...
+-asdfghjkl-
+3
+Courage stone
+100 0 0 40
+Power stone
+0 10 0 30
+Firm stone
+0 0 10 30
+0
+-1 -1 1 -1 8 -1 0
+0
+0
+1
+Monster2
+200 200 25 60 70
+-1 -1 -1 1 9 -1 0
+0
+0
+1
+Monster3
+500 500 170 10 100
+-1 -1 -1 -1 -1 2 0
+0
+0
+1
+Monster1
+170 170 50 0 30
+-1 -1 -1 -1 -1 3 0
+0
+0
+1
+Monster4
+1000 1000 50 100 20
+-1 -1 -1 -1 -1 4 0
+1
+Shield
+0 0 30
+0
+0
+-1 -1 -1 -1 -1 5 0
+1
+Cure potion
+400 0 0
+0
+0
+-1 -1 -1 -1 11 1 0
+5
+Legendary right hand
+0 400 0
+Legendary left hand
+0 0 200
+Legendary right leg
+600 70 20
+Legendary left leg
+800 50 30
+Legendary heart
+6000 250 300
+1
+The Maze Spirit
+Wellcome, Warrior...
+You are the first person I see in the past thousand years.
+-asdfghjkl-
+0
+0
+-1 -1 -1 -1 -1 10 1
+0
+0
+1
+Final Boss
+24799 24799 700 500 99999
+PlayerName
+800 800 50 0 0
+0 -1
+1
+Living Water
+0 0 0
